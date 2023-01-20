@@ -1,0 +1,18 @@
+name: data2060
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python=3.10.7
+- matplotlib=3.6.0
+- pandas=1.4.2
+- numpy=1.23.3
+- scikit-learn=1.1.1
+- jupyter_client=7.2.1
+- jupyter_core=4.11.1
+- jupyterlab=3.4.8
+- jupyter_server=1.19.0
+- jupytext=1.14.1
+- rise=5.7.1
+- ipywidgets=8.0.2
+prefix: /opt/conda
