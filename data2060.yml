@@ -1,6 +1,7 @@
 name: data2060
 channels:
 - conda-forge
+- pytorch
 - defaults
 dependencies:
 - python=3.10.7
